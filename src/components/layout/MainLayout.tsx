@@ -18,7 +18,7 @@ const MainLayout: React.FC<MainLayoutProps> = ({ children }) => {
         {children}
       </main>
       { <footer className="p-4 text-right text-sm text-muted-foreground">
-        Made by: Hugo Soares
+        Made by: Erica Fernandes
       </footer> }
     </div>
   );
